@@ -1,6 +1,5 @@
 {
     "values": [
-        "auria:load",
-        "auria:schedule"
+        "auria:load"
     ]
 }
