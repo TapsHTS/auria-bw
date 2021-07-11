@@ -5,7 +5,7 @@
 ## 💾 Functions:
 &nbsp; <code> -Ore generator </code> ✔ <br>
 &nbsp; <code> -Alarm trap </code> 🟠<br>
-&nbsp; <code> -Respawn Sword </code> ❌ <br>
+&nbsp; <code> -Respawn Sword </code> ✔ <br>
 
 ## 🎈 Credits
 
