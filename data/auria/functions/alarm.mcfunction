@@ -1,3 +1,7 @@
 #auria-dev
 playsound minecraft:block.bell.use block @a ~ ~ ~ 50
-schedule clear auria:alarm 6
+function auria:alarm
+function auria:alarm
+function auria:alarm
+function auria:alarm
+schedule clear auria:alarm
