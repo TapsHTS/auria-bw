@@ -1,9 +1,9 @@
 #auria-dev
 #Fer
 #bw1
-schedule function auria:ingot_bw1/iron 2s
+schedule function auria:ingot_bw1/iron 1.3s
 #bw2
-schedule function auria:ingot_bw2/iron 2s
+schedule function auria:ingot_bw2/iron 1.3s
 #Or
 #bw1
 schedule function auria:ingot_bw1/gold 6s

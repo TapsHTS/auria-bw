@@ -1,0 +1,24 @@
+#auria-dev
+#Disable
+
+playsound minecraft:block.bell.use block @a ~ ~ ~ 50
+scoreboard players add @a[x=48,y=101,z=18] alarm 1
+playsound minecraft:block.bell.use block @a ~ ~ ~ 50
+scoreboard players add @a[x=48,y=101,z=18] alarm 1
+playsound minecraft:block.bell.use block @a ~ ~ ~ 50
+scoreboard players add @a[x=48,y=101,z=18] alarm 1
+playsound minecraft:block.bell.use block @a ~ ~ ~ 50
+scoreboard players add @a[x=48,y=101,z=18] alarm 1
+playsound minecraft:block.bell.use block @a ~ ~ ~ 50
+scoreboard players add @a[x=48,y=101,z=18] alarm 1
+playsound minecraft:block.bell.use block @a ~ ~ ~ 50
+scoreboard players add @a[x=48,y=101,z=18] alarm 1
+playsound minecraft:block.bell.use block @a ~ ~ ~ 50
+scoreboard players add @a[x=48,y=101,z=18] alarm 1
+playsound minecraft:block.bell.use block @a ~ ~ ~ 50
+scoreboard players add @a[x=48,y=101,z=18] alarm 1
+playsound minecraft:block.bell.use block @a ~ ~ ~ 50
+scoreboard players add @a[x=48,y=101,z=18] alarm 1
+playsound minecraft:block.bell.use block @a ~ ~ ~ 50
+scoreboard players add @a[x=48,y=101,z=18] alarm 1
+execute if score @s alarm matches 10 run stopsound @a block minecraft:block.bell.use

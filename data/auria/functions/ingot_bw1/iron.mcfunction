@@ -8,4 +8,4 @@ execute in minecraft:bedwars run summon minecraft:item 13 74 78 {Item:{id:iron_i
 execute in minecraft:bedwars run summon minecraft:item -70 71 1 {Item:{id:iron_ingot,Count:1}}
 #bwjaune
 execute in minecraft:bedwars run summon minecraft:item 12 71 -83 {Item:{id:iron_ingot,Count:1}}
-schedule function auria:ingot_bw1/iron 2s
+schedule function auria:ingot_bw1/iron 1.3s
