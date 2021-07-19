@@ -5,7 +5,7 @@
 ## 💾 Functions:
 &nbsp; <code> -Ore generator </code> ✔ <br>
 &nbsp; <code> -Alarm trap </code> ❌<br>
-&nbsp; <code> -Respawn Sword & helmet and chestplate </code> ✔ <br>
+&nbsp; <code> -Respawn Sword & helmet and chestplate (Enchante) </code> ✔ <br>
 &nbsp; <code> -Spin diamond & emerald spawner </code> ✔ <br>
 
 ## 🎈 Credits
